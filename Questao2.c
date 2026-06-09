@@ -22,5 +22,5 @@ void main (void){
 	//printf("\nDigite apenas um carectere para buscar corresponeia em opiniao: ");
 	//gets(caractere);
 
-	//infelizmente n„o consegui encontrar a quantidade de caractere no texto
+	//infelizmente n√£o consegui encontrar a quantidade de caractere no texto
 }
