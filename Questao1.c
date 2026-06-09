@@ -4,7 +4,7 @@ void main (void){
 	printf("Digite o valor de N: \n");
 	scanf("%d", &n);
 	
-	float A[n][n], TA[n][n], RA[n][n], somaRA, somaRAl0, raizRAl0;
+	float A[n][n], TA[n][n], RA[n][n], somaRA=0, somaRAl0=0, raizRAl0=0;
 	
 	printf("Digite os valores da matiz em sequencia: \n");
 	for(i=0;i<n;i++){
